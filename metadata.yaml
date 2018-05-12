@@ -1,0 +1,26 @@
+_repo: The-Knickerbocker-Vol.-10-No.-6-December-1837_45538
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45538-h/images/cover-page.jpg
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_bookshelf: The Knickerbocker
+gutenberg_issued: '2014-04-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45538'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'AP'
+- !lcsh 'Periodicals'
+title: The Knickerbocker, Vol. 10, No. 6, December 1837
+url: http://www.gutenberg.org/ebooks/45538
